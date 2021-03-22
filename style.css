@@ -54,7 +54,7 @@ body {
   background-color: white;
 }
 
-.photo {
+.contact > img {
   border: 3px solid lightblue;
 }
 
